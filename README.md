@@ -6,7 +6,6 @@ This code is a Telegram bot that forwards messages from one channel (Channel A) 
 Installing the required libraries:
 Make sure you have python-telegram-bot and telegram libraries installed. You can install them with the command:
 
-copy code
 pip install python-telegram-bot
 Getting a token:
 
