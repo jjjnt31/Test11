@@ -7,7 +7,8 @@ Installing the required libraries:
 Make sure you have python-telegram-bot and telegram libraries installed. You can install them with the command:
 
 pip install python-telegram-bot
-Getting a token:
+
+# Getting a token:
 
 Create a new Telegram bot via BotFather and get a token.
 Replace 'YOUR_TOKEN' in the code with the received token.
